@@ -1,0 +1,36 @@
+.box {
+  width: 1000px;
+  display: flex;
+  flex-direction: row;
+}
+
+.button{
+    display: flex;
+    width: 100px;
+    height: 100px;
+    /* padding: 30px;
+    margin: 30px; */
+    border: 1px solid black;
+    margin-right: 1rem;
+}
+
+
+
+#grey{
+    background-color: gray;
+}
+#white{
+    background-color: white;
+}
+#blue{
+    background-color: blue;
+}
+#yellow{
+    background-color: yellow;
+}
+#purple{
+    background-color: purple;
+}
+#pink{
+    background-color: pink;
+}
