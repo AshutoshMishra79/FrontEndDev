@@ -4,9 +4,7 @@
 <img align = "right" alt="coding" width="400px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshmishra79&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshmishra79" /> </p>
 
-- 🌱 I’m currently learning **react**
-
-- 💬 Ask me about **frontend Developer**
+- 💬 Ask me about **Automation Tester**
 
 - 📫 How to reach me **ashu03102004@gmail.com**
 
